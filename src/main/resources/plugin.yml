@@ -1,0 +1,5 @@
+name: BungeeRespawn
+version: ${project.version}
+main: de.malfrador.bungeerespawn.BungeeRespawn
+api-version: 1.13
+authors: [ Malfrador ]
